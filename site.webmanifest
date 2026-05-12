@@ -1,6 +1,7 @@
 {
-  "name": "Thumbnail Design",
-  "short_name": "Thumbnail De",
+  "name": "Velimir Paleksić Thumbnail Design",
+  "short_name": "VP Thumbs",
+  "description": "YouTube thumbnail design for commentary, documentary, gaming, finance, and faceless creators.",
   "icons": [
     {
       "src": "/apple-touch-icon.png",
@@ -16,5 +17,6 @@
   "theme_color": "#0B0B0B",
   "background_color": "#0B0B0B",
   "display": "standalone",
+  "scope": "/",
   "start_url": "/"
 }
