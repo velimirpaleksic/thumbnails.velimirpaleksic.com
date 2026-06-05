@@ -3,7 +3,7 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://thumbnails.velimirpaleksic.com/</loc>
-    <lastmod>2026-05-16</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/og-image.png</image:loc>
     </image:image>
@@ -42,6 +42,12 @@
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/assets/creator-vukan-velickovic-portrait-B1qjT6XK.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/assets/ctr-proof-kontraze-dashboard-BVOl_mVf.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/assets/ctr-proof-kontraze-recent-video-Bi6H41tz.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/assets/epidemija-online-kockanja-CZvAP_7G.webp</image:loc>
