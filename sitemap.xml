@@ -3,7 +3,7 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://thumbnails.velimirpaleksic.com/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-16</lastmod>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/og-image.png</image:loc>
     </image:image>
@@ -167,10 +167,16 @@
       <image:loc>https://thumbnails.velimirpaleksic.com/redesigns/you-should-ditch-music-streaming-v2-before.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/apple-end.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/clavicular.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/i-memorized-1010-digits-of-pi.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/i-quit-drinking-alcohol-heres-what-happened-after.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/my-dream-project.webp</image:loc>
@@ -183,6 +189,9 @@
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/something-has-gone-wrong.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/trazim-poslednje-jaje-u-99-noci-u-sumi-after.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/trcao-sam-sa-bikovima.webp</image:loc>
