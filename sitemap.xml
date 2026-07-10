@@ -3,7 +3,7 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://thumbnails.velimirpaleksic.com/</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-07-10</lastmod>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/og-image.png</image:loc>
     </image:image>
@@ -12,6 +12,9 @@
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/assets/creator-antoguino-H_36vXb9.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/assets/creator-graham-stephan-CQ8nZeIz.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/assets/creator-kj1-B5qgCMJV.webp</image:loc>
@@ -167,7 +170,19 @@
       <image:loc>https://thumbnails.velimirpaleksic.com/redesigns/you-should-ditch-music-streaming-v2-before.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/50-geography-facts-you-were-never-taught.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/amazons-empire-is-starting-to-crack.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/apple-end.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/build-a-10k-month-ai-agency-from-scratch.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/clav.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/clavicular.webp</image:loc>
@@ -177,6 +192,12 @@
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/i-quit-drinking-alcohol-heres-what-happened-after.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/inside-nvidias-trillion-dollar-ai-empire.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/michelinove-zvezde-unistavaju-restorane.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/my-dream-project.webp</image:loc>
@@ -191,6 +212,12 @@
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/something-has-gone-wrong.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/the-one-person-ai-business-model.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/this-ai-tool-gives-you-unlimited-credits.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/trazim-poslednje-jaje-u-99-noci-u-sumi-after.webp</image:loc>
     </image:image>
     <image:image>
@@ -201,6 +228,9 @@
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/you-should-ditch-music-streaming-a.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/your-money-is-losing-value.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://thumbnails.velimirpaleksic.com/portfolio/zasto-su-kladionice-na-svakom-uglu.webp</image:loc>
